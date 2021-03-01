@@ -3,8 +3,11 @@
   <name>command_bridge</name>
   <version>1.0.0</version>
   <description>The command_bridge package</description>
-
+  <!-- version 0.0.0 original -->
+  <author email="roland@ccom.unh.edu">Roland Arsenault</author>
   <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+  <!-- version 1.0.0 modified -->
+  <maintainer email="marcos.barrera@seafloorsystems.com">Marcos Barrera</maintainer>
 
   <license>BSD</license>
 
