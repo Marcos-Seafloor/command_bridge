@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>command_bridge</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>The command_bridge package</description>
 
   <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
